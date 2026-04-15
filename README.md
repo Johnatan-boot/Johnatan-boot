@@ -1,20 +1,32 @@
 ## 🚀 Johnatan Quenes Santos
 
-**Full Stack Developer em evolução | Angular • JS • Python**
+**Full Stack Developer em evolução | Angular • React • Node • AI-Native**
 
 ---
 
 ### 🧠 Sobre mim
 
 Desenvolvedor focado em evolução contínua, com interesse em arquitetura de software, performance e construção de aplicações escaláveis.
-Atualmente trabalhando com **Angular** e fortalecendo base em frontend e backend.
+Atualmente trabalhando com **Angular** e expandindo para um ecossistema completo Full Stack com integração de IA.
 
 ---
 
 ### ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,python,mysql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 🤖 AI & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-111?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -56,7 +68,7 @@ Atualmente trabalhando com **Angular** e fortalecendo base em frontend e backend
 
 ### 🎯 Foco atual
 
-* Construção de aplicações com Angular
-* Boas práticas de arquitetura
-* Evolução para nível **Full Stack Sênior**
-* Mentalidade **AI-Native Development**
+* Desenvolvimento Full Stack moderno
+* Integração com IA (AI-Native Development)
+* Arquitetura de sistemas escaláveis
+* Evolução para nível **Senior Engineer / Software Architect**
