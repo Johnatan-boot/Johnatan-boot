@@ -32,6 +32,21 @@ Construo **aplicações web, APIs e sistemas de negócio**, do frontend ao backe
 
 **Database:** MySQL · SQLite · Prisma
 
-**Engineering:** REST · JWT · Zod · Docker · Git · Testing
+**Engineering:** REST · JSON · JWT · Zod · Docker · Git · Testing
 
 **Complementar:** Java · Spring Boot
+
+---
+
+## 🎯 Especialização em andamento — TOTVS Protheus
+
+Atualmente direcionando minha especialização para **desenvolvimento e integração de sistemas no ecossistema TOTVS Protheus**, com foco em:
+
+**AdvPL · MVC Protheus · SQL · REST · JSON · Web Services · MSExecAuto · Pontos de Entrada · Queries · Performance · APSDU · Gatilhos · Integrações**
+
+### Processos e módulos em estudo
+
+**Compras · Recebimento · Conferência · Estoque/Custos · Vendas · Faturamento · Financeiro · OMS · WMS · TMS**
+
+Também estudando **configuração de ambientes Protheus, atualização de versões, desenvolvimento de rotinas automáticas e integração de sistemas**.
+
