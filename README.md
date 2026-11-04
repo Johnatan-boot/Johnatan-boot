@@ -11,7 +11,7 @@ Construo **aplicações web, APIs e sistemas de negócio**, do frontend ao backe
 ## 🚀 Projetos em destaque
 
 **Proffy** — plataforma educacional     - https://proffy-plataforma-educacional.onrender.com/
-`React``TypeScript``Node.js```Fastify``MySQL` `SQL3`
+`React` `TypeScript` `Node.js` `Fastify` `MySQL` `SQL3`
 
 **Mastercode** — Sistema profissional
 `Angular` `TypeScript` `Node.js` `MySQL`
