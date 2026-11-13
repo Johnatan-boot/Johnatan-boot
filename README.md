@@ -20,7 +20,7 @@ Construo **aplicações web, APIs e sistemas de negócio**, do frontend ao backe
 `Angular` `TypeScript` `Fastify` `MySQL`
 
 **Studio Cifras** — Plataforma musical
-`Angular` `TypeScript` `Fastify` `MySQL`
+`Angular` `TypeScript` `Fastify` `MySQL` -https://voz-cordas-studio.ai.studio/dashboard
 
 **Sweet Flow** — E-commerce
 `React` `TypeScript` `Node.js` `MySQL`
