@@ -28,6 +28,9 @@ Construo **aplicações web, APIs e sistemas de negócio**, do frontend ao backe
 **Search_Sertanejo_App** — App  -https://pesquisa-sertaneja-27886120219.us-west2.run.app/
 `React` `TypeScript` `Node.js` `MySQL`
 
+**+PraClinic** — App  -https://praclinic.vercel.app/login
+`React``TypeScript``Java``Springboot``PostgreSQL` `jwt`
+
 ---
 
 ## 🧰 Stack
