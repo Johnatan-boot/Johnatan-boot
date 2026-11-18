@@ -29,7 +29,7 @@ Construo **aplicações web, APIs e sistemas de negócio**, do frontend ao backe
 `React` `TypeScript` `Node.js` `MySQL`
 
 **+PraClinic** — App  -https://praclinic.vercel.app/login
-`React``TypeScript``Java``Springboot``PostgreSQL` `jwt`
+`React` `TypeScript` `Java` `Springboot` `PostgreSQL` `jwt`
 
 ---
 
