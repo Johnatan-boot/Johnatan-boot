@@ -31,6 +31,9 @@ Construo **aplicações web, APIs e sistemas de negócio**, do frontend ao backe
 **+PraClinic** — App  -https://praclinic.vercel.app/login
 `React` `TypeScript` `Java` `Springboot` `PostgreSQL` `jwt`
 
+**ATLAS | Kingstar** — App  -https://atlas-api-blrx.onrender.com/
+`HTML5` `CSS3` `JS` `TypeScript` `FASTIFY` `SQLITE` `MYSQL` `jwt`
+
 ---
 
 ## 🧰 Stack
